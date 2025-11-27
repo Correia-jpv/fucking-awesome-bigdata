@@ -364,6 +364,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Apache Pulsar](https://github.com/apache/pulsar) - a distributed pub-sub messaging platform with a very flexible messaging model and an intuitive client API.
 * [Apache Sqoop](http://sqoop.apache.org/) - tool to transfer data between Hadoop and a structured datastore.
 * [Embulk](http://www.embulk.org) - open-source bulk data loader that helps data transfer between various databases, storages, file formats, and cloud services.
+* [Estuary](https://estuary.dev) - SaaS platform based on Gazette with plug-and-play connectors.
 * [Facebook Scribe](https://github.com/facebookarchive/scribe) - streamed log data aggregator.
 * [Fluentd](http://www.fluentd.org) - tool to collect events and logs.
 * [Gazette](https://github.com/gazette/core) - Distributed streaming infrastructure built on cloud storage which makes it easy to mix and match batch and streaming paradigms.
@@ -466,6 +467,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 
 * [Apache Hadoop Benchmarking](https://issues.apache.org/jira/browse/MAPREDUCE-3561) - micro-benchmarks for testing Hadoop performances.
 * [Berkeley SWIM Benchmark](https://github.com/SWIMProjectUCB/SWIM/wiki) - real-world big data workload benchmark.
+* [Estuary Benchmark Report](https://github.com/estuary/estuary-warehouse-benchmark) - reproducible, vendor-neutral data warehouse benchmark.
 * [Intel HiBench](https://github.com/intel-hadoop/HiBench) - a Hadoop benchmark suite.
 * [PUMA Benchmarking](https://issues.apache.org/jira/browse/MAPREDUCE-5116) - benchmark suite for MapReduce applications.
 * [Yahoo Gridmix3](http://yahoohadoop.tumblr.com/post/98294079296/gridmix3-emulating-production-workload-for) - Hadoop cluster benchmarking from Yahoo engineer team.
