@@ -218,6 +218,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 
 ## Graph Data Model
 
+* [Actionbase](https://github.com/kakao/actionbase) - a database for user interactions (likes, views, follows) with precomputed reads, supports HBase.
 * [AgensGraph](http://www.agensgraph.com/) - a new generation multi-model graph database for the modern complex data environment.
 * [Apache Giraph](http://giraph.apache.org/) - implementation of Pregel, based on Hadoop.
 * [Apache Spark Bagel](http://spark.apache.org/docs/0.7.3/bagel-programming-guide.html) - implementation of Pregel, part of Spark.
